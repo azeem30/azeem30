@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [InsightQA](https://github.com/azeem30/insightqa-frontend)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently building solo projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/azeem30](https://github.com/azeem30)
 
-- 💬 Ask me about **Python and React**
+- 💬 Ask me about **Python and Java**
 
 - 📫 How to reach me **azeempinjari30@gmail.com**
 
